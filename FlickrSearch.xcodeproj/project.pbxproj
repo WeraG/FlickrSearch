@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89707DBB1FDEB56F00BE9F87 /* FlickrPhotoHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89707DBA1FDEB56F00BE9F87 /* FlickrPhotoHeaderView.swift */; };
 		89862BAB1FDB18CB004E626B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89862BAA1FDB18CB004E626B /* AppDelegate.swift */; };
 		89862BB01FDB18CB004E626B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89862BAE1FDB18CB004E626B /* Main.storyboard */; };
 		89862BB21FDB18CB004E626B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89862BB11FDB18CB004E626B /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		89707DBA1FDEB56F00BE9F87 /* FlickrPhotoHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickrPhotoHeaderView.swift; sourceTree = "<group>"; };
 		89862BA71FDB18CB004E626B /* FlickrSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlickrSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89862BAA1FDB18CB004E626B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89862BAF1FDB18CB004E626B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				89862BAE1FDB18CB004E626B /* Main.storyboard */,
 				899DCD931FDE9E8E00F2D8BF /* FlickrPhotoCell.swift */,
 				89862BBC1FDB29D5004E626B /* FlickrPhotosViewController.swift */,
+				89707DBA1FDEB56F00BE9F87 /* FlickrPhotoHeaderView.swift */,
 				89862BB11FDB18CB004E626B /* Assets.xcassets */,
 				89862BB31FDB18CB004E626B /* LaunchScreen.storyboard */,
 				89862BB61FDB18CB004E626B /* Info.plist */,
@@ -153,6 +156,7 @@
 				89862BC21FDB2AE9004E626B /* Flickr.swift in Sources */,
 				89862BC31FDB2AE9004E626B /* FlickrPhoto.swift in Sources */,
 				89862BAB1FDB18CB004E626B /* AppDelegate.swift in Sources */,
+				89707DBB1FDEB56F00BE9F87 /* FlickrPhotoHeaderView.swift in Sources */,
 				899DCD941FDE9E8E00F2D8BF /* FlickrPhotoCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
